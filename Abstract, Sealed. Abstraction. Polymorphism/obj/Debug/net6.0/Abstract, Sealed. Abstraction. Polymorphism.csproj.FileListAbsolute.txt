@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\bin\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.exe
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\bin\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.deps.json
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\bin\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.runtimeconfig.json
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\bin\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\bin\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.pdb
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\refint\Abstract, Sealed. Abstraction. Polymorphism.dll
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.pdb
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\Abstract, Sealed. Abstraction. Polymorphism.genruntimeconfig.cache
+C:\Users\Murad\Desktop\Task_Interface_Static\Abstract, Sealed. Abstraction. Polymorphism\Abstract, Sealed. Abstraction. Polymorphism\obj\Debug\net6.0\ref\Abstract, Sealed. Abstraction. Polymorphism.dll
